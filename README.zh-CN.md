@@ -1,10 +1,10 @@
 [English](README.md) | 简体中文
 
 <p align="center">
-  <img src="assets/logo.svg" alt="xywdisk 标志" width="112" height="112">
+  <img src="assets/logo.svg" alt="Wafer Thermal Calibration 标志" width="112" height="112">
 </p>
 
-<h1 align="center">xywdisk</h1>
+<h1 align="center">Wafer Thermal Calibration</h1>
 
 <p align="center"><strong>47 路执行器输入，34 路红外传感器输出：一份加热晶圆热校准的现场记录。</strong></p>
 
@@ -170,7 +170,7 @@ python disk.py   # 先在 memmap 形状处报错，再停在下文的裸 `raise`
 
 ## 沿革
 
-本仓库是作者已发布的 `disk` 项目更早、更原始的版本。`disk.old.py` 与那个仓库的 `disk.py` 几乎是同一份祖先代码；这份快照还保留了采集数据和未完成的较晚版本。`xywdisk` 是原始私有归档迁移时的标签，不是已发布的 `disk` 仓库。
+本仓库是作者已发布的 `disk` 项目更早、更原始的版本。`disk.old.py` 与那个仓库的 `disk.py` 几乎是同一份祖先代码；这份快照还保留了采集数据和未完成的较晚版本。本仓库保留早期材料，与后续的 `disk` 仓库分别维护。
 
 ## 许可证
 

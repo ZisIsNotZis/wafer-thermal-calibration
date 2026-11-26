@@ -1,10 +1,10 @@
 English | [简体中文](README.zh-CN.md)
 
 <p align="center">
-  <img src="assets/logo.svg" alt="xywdisk logo" width="112" height="112">
+  <img src="assets/logo.svg" alt="Wafer Thermal Calibration logo" width="112" height="112">
 </p>
 
-<h1 align="center">xywdisk</h1>
+<h1 align="center">Wafer Thermal Calibration</h1>
 
 <p align="center"><strong>47 actuators in, 34 IR sensors out: a field record of thermal calibration on a heated wafer.</strong></p>
 
@@ -169,7 +169,7 @@ The captures are the part worth keeping. A small replay harness could turn them 
 
 ## Lineage
 
-This repository is the earlier, raw predecessor of the author's published `disk` project. `disk.old.py` is a near-identical ancestor of that repository's `disk.py`; this snapshot additionally preserves the capture data and the unfinished later revision. The name `xywdisk` is the migration label of the original private archive, not the published `disk` repository.
+This repository is the earlier, raw predecessor of the author's published `disk` project. `disk.old.py` is a near-identical ancestor of that repository's `disk.py`; this snapshot additionally preserves the capture data and the unfinished later revision. The name `Wafer Thermal Calibration` is the migration label of the original private archive, not the published `disk` repository.
 
 ## License
 

@@ -1,4 +1,4 @@
-# Contributing to xywdisk
+# Contributing to Wafer Thermal Calibration
 
 This repository is an archive of a finished experiment, not a maintained
 project. It is kept because the four capture files and the two script revisions
